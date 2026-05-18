@@ -10,3 +10,22 @@ git remote set-url origin https://
 git branch 
 git branch dev
 git switch dev
+
+
+
+
+ git status
+   9 git add .
+  10 git commit -m "added both file"
+  11 git status
+  12 git branch
+  13 git remote -v
+  14 git status
+  15 git remote -v
+  16 git remote add origin https://github.com/deepesh12330/github-day1.git
+  17 git remote -v
+  18 git remote set-url origin https://deepesh12330/github-day1.git
+  19 git remote -v
+  20 git push origin master
+  21 git status
+  22 git history
