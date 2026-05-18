@@ -31,3 +31,30 @@ git switch dev
   22 git history
 
   ----- this change is local and i want to seen this is github ----
+
+
+
+=== this change is github and i want to change local ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
